@@ -1,4 +1,5 @@
 # 🤖 Gradio Ollama Interface
+![demoimg](https://raw.githubusercontent.com/MushroomFleet/Ollama-local-Gradio/refs/heads/main/images/demo.png)
 
 A simple Gradio interface for interacting with Ollama models.
 
